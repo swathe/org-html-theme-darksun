@@ -5,6 +5,8 @@
 
 An Org HTML export theme based on [[https://github.com/fniessen/org-html-themes][Bigblow]] and [[https://ethanschoonover.com/solarized/][Solarized]] [[https://github.com/bbatsov/solarized-emacs][Dark]].  Primarily the colors are changed, but there are also minor changes to the layout, styles, and JavaScript.
 
+* This was forked from https://github.com/alphapapa/org-html-theme-darksun so I could work on it for my own purposes
+
 * Screenshots
 :PROPERTIES:
 :TOC:      ignore
